@@ -1,0 +1,21 @@
+# Configuration file for hyperparameters and paths
+
+# Data paths
+data:
+  electricity_path: "dataset/electricityloaddiagrams20112014.zip"
+
+# Model hyperparameters
+  # model:
+  #   learning_rate: 0.001
+  #   batch_size: 32
+  #   epochs: 10
+  #
+# Training
+  # training:
+  #   seed: 42
+
+# Outputs
+output:
+  model_dir: "models"
+  figures_dir: "outputs/figures"
+  logs_dir: "outputs/logs"

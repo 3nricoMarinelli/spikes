@@ -1,0 +1,1 @@
+"""Spikes neural network project."""
