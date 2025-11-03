@@ -21,3 +21,4 @@ outputs/logs/*
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 */.ipynb_checkpoints/*
+src/dataset/LD2011_2014.txt
